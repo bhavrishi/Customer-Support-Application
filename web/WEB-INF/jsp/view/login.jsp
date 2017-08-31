@@ -1,4 +1,5 @@
 <%--@elvariable id="loginFailed" type="java.lang.Boolean"--%>
+<%--Single Line comment Modification --%>
 <template:loggedOut htmlTitle="Log In" bodyTitle="Log In">
     You must log in to access the customer support site.<br /><br />
     <c:if test="${loginFailed}">
